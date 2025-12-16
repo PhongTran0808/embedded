@@ -1,3 +1,7 @@
+# Cài đặt thư viện:
+pip install pyserial pandas openpyxl matplotlib tk
+
+
 # ESP32 OXIMETER
 Source code of an esp32 + maxim max30102 oximeter and heart rate device. This project was intended to be used as a cheap alternative to commercial oximeters in these hard days fighting corona virus.
 
